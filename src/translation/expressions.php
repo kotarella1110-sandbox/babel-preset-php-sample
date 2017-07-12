@@ -1,0 +1,20 @@
+<?php
+2 + 2;
+$a = null;
+$a .= 'x';
+$a = NuLL;
+$a + 1;
+$a = $b = 1;
+$c = $d ? 1 : 2;
+$d ?: 2;
+$a[1] + $b[Z];
+$b[$foo['Z']];
+"f\\no\\\\o";
+bar();
+eval($lol);
+(int)"1";
+(float)"1";
+(bool)"1";
+(string)$x;
+(object)$x;
+(array)$x;

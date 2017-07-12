@@ -1,0 +1,14 @@
+{
+  "name": "babel-preset-php",
+  "version": "1.0.0",
+  "main": "dist/file.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "gulp"
+  },
+  "devDependencies": {
+    "babel-preset-php": "^1.0.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2"
+  }
+}

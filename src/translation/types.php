@@ -1,0 +1,4 @@
+<?php
+class Foo {function annotated($untyped, Cls\Name $class, self $self, array $array, callable $callable, bool $bool, float $float, int $int, string $string, iterable $iter) {}}
+class Foo2 {function annotated($untyped = null, Cls\Name $class = null, self $self = null, array $array = null, callable $callable = null, bool $bool = null, float $float = null, int $int = null, string $string = null, iterable $iter = null) {}}
+class Foo3 {function annotated($untyped, ?Cls\Name $class, ?self $self, ?array $array, ?callable $callable, ?bool $bool, ?float $float, ?int $int, ?string $string, ?iterable $iter) {}}
